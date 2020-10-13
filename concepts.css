@@ -1,0 +1,83 @@
+body{
+      margin: 0 auto;  
+      background: #242424;
+}
+
+div.place {
+	padding: 20px;
+	width: 800px;
+   margin: 0 auto;
+   padding: 20px;
+	background-color: #242424;
+}
+
+a.index {
+	color: #F2F2F2;
+}
+
+a.stand{
+	color: #55BE98;
+} 
+
+a:visited.stand {
+    color: #63DEB1;
+}
+
+a:active.stand {
+    color: #479D7E;
+}
+
+h1.sagolovok{
+    color: #F8F8F8;
+    text-align: center;
+    background-color: #68EBBC;
+    padding: 20px;
+    margin: 0;
+}
+
+h1{
+	font: 30px Arial;
+	color: #68EBBC;
+	margin: 0 auto;
+}
+
+h2{
+	font: 25px Arial;
+	color: #55BE98;
+}
+
+h2.sagolovok{
+    color: #F8F8F8;
+    text-align: center;
+    background-color: #46A382;
+    padding: 20px;
+    margin: 0;
+}
+
+p.absaz{
+	padding: 20px;
+	background-color: #333333;
+	color: #D0D0D0;
+	margin: 0 auto;
+	margin-right: : 50 auto;
+	margin-left: : 50 auto;
+	width: 780px;
+}
+
+div.comment{
+	color: #4CA887;
+}
+
+.govno {
+	margin: 0 auto;
+}
+
+li{
+	font: 20px Arial;
+	color: #55BE98;
+}
+
+ul{
+	font: 20px Arial;
+	color: #55BE98;
+}
